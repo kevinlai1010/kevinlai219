@@ -1,6 +1,6 @@
-I am Kevin Lai.
+Kevin Lai.
 I am Full Stack Web & App developer.
-I am an Innovative Artificial Intelligence Engineer with 6+ years of experience in application design, development, testing, and deployment. I've highly experienced in writing codes and algorithms as well as building complex neural networks through various programming languages. Possess an unbridled passion for Artificial Intelligence with comprehensive knowledge of machine learning concepts and other related technologies. I also have a deep knowledge of web development. Already gained 5+ years of working experience over Full-Stack Development. I have done multiple projects with different development frameworks such as - | Bootstrap | ReactJS | VueJS | Django | Laravel Also, I am a BASIS certified python programmer and have proper knowledge of OOP.
+I am an Innovative Artificial Intelligence Engineer with 6+ years of experience in application design, development, testing, and deployment. I've highly experienced in writing codes and algorithms as well as building complex neural networks through various programming languages. Possess an unbridled passion for Artificial Intelligence with comprehensive knowledge of machine learning concepts and other related technologies. I also have a deep knowledge of Blockchain, Cryptocurrency and Web development. Already gained 5+ years of working experience over Full-Stack Development. I have done multiple projects with different development frameworks such as - | Bootstrap | ReactJS | VueJS | Django | Laravel. Also, I am a BASIS certified python programmer and have proper knowledge of OOP.
 I have new ideas and new challenges to develop my skills :
 
 -In Deep Learning
@@ -18,5 +18,8 @@ Analysis: LDA, PCA
 * General web technologies - HTML5, CSS3(SASS/LESS/SCSS), Bootstrap, jQuery
 * Languages - JavaScript ES6/7, Typescript
 * Flutter, React Native, Java, Swift… more
-Database - MySQL, MongoDB, PostgreSQL
+* Database - MySQL, MongoDB, PostgreSQL
+
+- In Crytocurrency,
+* Blockchain, Solidity, SmartContract, Web3, NFT Market, NFT Game, Solana, RUST
 And the best Policy: Honesty
